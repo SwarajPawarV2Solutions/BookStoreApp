@@ -50,7 +50,7 @@ const Navbar = () => {
                 {navItems}
               </ul>
             </div>
-            <a className="text-2xl font-bold cursor-pointer">Book Store</a>
+            <a className="text-2xl font-bold cursor-pointer">Book<span className="text-pink-500">Store</span></a>
           </div>
           <div className="navbar-end space-x-3">
             <div className="navbar-center hidden lg:flex">
