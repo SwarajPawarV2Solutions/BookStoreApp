@@ -56,12 +56,12 @@ const Freebook = () => {
             iusto. Veritatis!
           </p>
         </div>
-           
-           {/* Slide code  */}
+
+        {/* Slide code  */}
         <div>
           <Slider {...settings}>
             {filterData.map((item) => (
-              <Cards item={item} key={item.id}/>
+              <Cards item={item} key={item.id} />
             ))}
           </Slider>
         </div>

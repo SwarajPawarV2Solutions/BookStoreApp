@@ -1,4 +1,3 @@
-
 import React from "react";
 
 function About() {
@@ -98,20 +97,20 @@ function About() {
             placeat, est repellendus maxime unde modi sequi. Obcaecati vitae
             atque delectus et.
             <br></br>
-             nesciunt ullam quod error porro ratione esse
-            cupiditate. Numquam, laudantium? Obcaecati quia adipisci id omnis
-            nam eius doloremque, nostrum dicta commodi ab quo illo nobis cumque
-            atque ea mollitia aspernatur magnam labore eos ut? Delectus
-            aspernatur, laboriosam consequatur dolor illo reiciendis excepturi
-            voluptas aut vitae iusto natus laborum recusandae modi dolore sunt,
-            magni ad dignissimos beatae possimus voluptatibus aliquid voluptate?
-            Necessitatibus, ex quo! Molestias quam excepturi voluptatibus libero
-            deserunt nam aperiam, atque optio dolores nesciunt id hic, officiis
-            tenetur quasi consequuntur laboriosam nobis sint temporibus aliquid
-            ullam cum. Enim voluptate quos ullam placeat facere? Inventore
-            molestiae eveniet culpa. Dolor delectus atque nobis autem molestias
-            optio laborum? Pariatur necessitatibus soluta illo! Possimus
-            reiciendis dolor natus provident doloremque, atque vitae quod eaque.
+            nesciunt ullam quod error porro ratione esse cupiditate. Numquam,
+            laudantium? Obcaecati quia adipisci id omnis nam eius doloremque,
+            nostrum dicta commodi ab quo illo nobis cumque atque ea mollitia
+            aspernatur magnam labore eos ut? Delectus aspernatur, laboriosam
+            consequatur dolor illo reiciendis excepturi voluptas aut vitae iusto
+            natus laborum recusandae modi dolore sunt, magni ad dignissimos
+            beatae possimus voluptatibus aliquid voluptate? Necessitatibus, ex
+            quo! Molestias quam excepturi voluptatibus libero deserunt nam
+            aperiam, atque optio dolores nesciunt id hic, officiis tenetur quasi
+            consequuntur laboriosam nobis sint temporibus aliquid ullam cum.
+            Enim voluptate quos ullam placeat facere? Inventore molestiae
+            eveniet culpa. Dolor delectus atque nobis autem molestias optio
+            laborum? Pariatur necessitatibus soluta illo! Possimus reiciendis
+            dolor natus provident doloremque, atque vitae quod eaque.
             Accusantium adipisci natus odio. Fuga ducimus quibusdam aliquam
             maxime aperiam natus officiis aspernatur dolor quam iusto optio
             illo, vel saepe accusantium distinctio ut corporis perspiciatis
